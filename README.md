@@ -1,1 +1,13 @@
-# Malagasy_Speech_Data
+## Malagasy audio dataset
+
+The repository raw_recordings contains the direct output of lig-aikuma after recording. It contains 59 folders, each containing around 50 audio accompanged with .json files describing each of them. 
+
+
+mlg_data.zip contains 
+- a text file transcriptions.txt containing the audio names and their transcriptions, in the format 
+		audio_name.wav, TRANSCRIPTION
+- A folder containing all the audios retrieved from the raw_recordings folder, that are not corrupted. This is the dataset used in the .ipynb file. 
+
+
+
+
