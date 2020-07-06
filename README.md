@@ -12,4 +12,5 @@ The repository raw_recordings contains the direct output of lig-aikuma after rec
 - MG_ASR.ipynb is a notebook with the codes training one ASR system on the data.
 
 
-
+### Contributors 
+Emmanuella Sandratra Rambeloson and Andriamahazoosa Dimbinantenaina Rabeariony, AMMI Ghana.
